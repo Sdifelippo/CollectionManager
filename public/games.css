@@ -1,0 +1,13 @@
+.wrap {
+   margin-right: 3rem;
+  display: flex;
+    flex-wrap: wrap;
+    width: 14rem;
+    border-style: solid;
+    justify-content: center;
+}
+
+.gamewrap{
+  display: flex;
+  flex-flow: wrap;
+}

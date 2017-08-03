@@ -1,0 +1,43 @@
+[{
+  "title": "Horizon Zero Dawn",
+  "genre": "Action, Adventure, RPG",
+  "publisher": "Sony",
+  "developer": "Guerrilla Games",
+  "system": "PS4"
+}
+,
+
+{
+  "title": "Destiny 2",
+  "genre": "Action, Adventure, RPG, Shooter",
+  "publisher": "Activision",
+  "developer": "Bungie",
+  "system": "PS4, Xbox, PC"
+}
+,
+
+{
+  "title": "Battlefield 1",
+  "genre": "Action, Shooter",
+  "publisher": "EA Sports",
+  "developer": "Dice",
+  "system": "PS4, Xbox, PC"
+}
+,
+
+{
+  "title": "The Witcher 3",
+  "genre": "Adventure, Adventure, RPG",
+  "publisher": "CD Project",
+  "developer": "CD Project RED",
+  "system": "PS4, Xbox, PC"
+}
+,
+
+{
+  "title": "Uncharted 4",
+  "genre": "Adventure, Action, Shooter",
+  "publisher": "Sony",
+  "developer": "Naughty Dog",
+  "system": "PS4"
+}]

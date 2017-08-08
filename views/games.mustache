@@ -4,25 +4,29 @@
 <head>
   <meta charset="utf-8">
   <title>Games Directory</title>
-  <link rel="stylesheet" href="games.css"/>
+  <link rel="stylesheet" href="styles.css" />
 </head>
 
 <body>
   <h1 class="header">Games Directory</h1>
-  <div class = "gamewrap">
-  {{ #videoGames }}
-  <div class = "wrap">
+  <div class="gamewrap">
+    {{ #games }}
+    <div class="wrap">
 
-        <h2>{{ title }}</h2>
-        <p>{{ genre }}</p>
-           <p>{{ publisher }}</p>
-            <p>{{ developer }}</p>
-            <p>{{ system }}</p>
-</div>
-      {{ /videoGames }}
+      <h2>{{ title }} </h2>
+      <img> <src="http://cdn2.expertreviews.co.uk/sites/expertreviews/files/2017/04/destiny_2_release_date_news_specs_features.jpg" type="image/">
+      <!-- <img src=h ttp://cdn2.expertreviews.co.uk/sites/expertreviews/files/2017/04/destiny_2_release_date_news_specs_features.jpg> -->
+      <p>{{ genre }}</p>
+      <p>{{ publisher }}</p>
+      <p>{{ developer }}</p>
+      <p>{{ system }}</p>
     </div>
+    {{ /games }}
+
+  </div>
 
 
 </body>
+
 
 </html>

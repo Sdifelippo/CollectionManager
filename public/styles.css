@@ -10,4 +10,11 @@
 .gamewrap{
   display: flex;
   flex-flow: wrap;
+
+}
+
+.newGames{
+  display: flex;
+  margin-bottom: 15px;
+  font-size: small;
 }
